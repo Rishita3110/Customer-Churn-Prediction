@@ -1,5 +1,9 @@
 # 📊 Customer Churn Prediction using Machine Learning
 
+## Live Demo 
+
+🔗 Streamlit app : https://customer-churn-prediction-7iwqsksmym96lqomm56agc.streamlit.app/
+
 ## 📌 Project Overview
 
 Customer churn is one of the most important business problems in subscription-based industries. Churn occurs when customers stop using a company's services, resulting in revenue loss and increased customer acquisition costs.
